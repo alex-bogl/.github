@@ -1,4 +1,4 @@
-This project is hosted at [https://alex-bogl.com/](https://alex-bogl.com/).
+This project is hosted at [https://alex-bogl.com/](https://alex-bogl.com/). Select an example program from the navbar dropdown to try it out!
 
 ![The web-based BoGL IDE](img/BoGLHomePage.png)
 
